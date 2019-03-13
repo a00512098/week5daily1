@@ -1,4 +1,4 @@
-package com.example.week5daily1;
+package com.example.week5daily1.model;
 
 public class Song {
     private long id;
